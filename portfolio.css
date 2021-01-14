@@ -1,0 +1,171 @@
+
+
+nav{
+	background-color:#ff577f;
+}
+
+body{
+	background-color:#ffd5cd;
+
+}
+		
+span{
+	color: #1f4068;;
+}
+
+.navl{
+	padding: 15px;
+
+}
+
+
+
+.container{
+	margin:0 100px;
+}
+
+.conta{
+    text-align: center;
+    margin: 4% 0 4%;
+    color: #59405c;
+}
+
+.display-1{
+	font-size: 50px;
+	text-align:center;
+}
+
+.description{
+	margin-right: 60px;
+	margin-left:60px;
+	text-align: center;
+	font-family: 'Raleway', sans-serif; 
+	font-size:20px;
+    line-height: 150%;
+}
+
+.cont{
+    padding-left: 20%;
+    padding-right: 20%;
+}
+
+.hobby{
+	margin:0 10px;
+	height:60px;
+	width:50px;
+	border-radius:50%;
+}
+
+.code{
+    float: left;
+    width: 150px;
+    height: 150px;
+    padding-right: 20px;
+}
+
+
+p{
+    font-family: 'Raleway', sans-serif; 
+    line-height: 150%; 
+}
+
+li{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1vw;
+    line-height: 150%;
+}
+
+h3{
+    font-family: 'Raleway', sans-serif;
+    font-size: 1vw;
+    line-height: 150%;	
+}
+
+.code{
+	margin:0 10px;
+	height:60px;
+	width:50px;
+	border-radius:50%;
+}
+
+.meet{
+	text-align:left;
+	margin:50px 20px;
+	font-family: 'Grandstander', cursive;
+}
+
+.contac{
+   	color: #59405c;
+}
+
+.contac:hover{
+    color: #00bcd4;
+}
+
+a{
+    text-decoration: none;
+    color: #3c2c3e;
+    font-weight: 900;
+}
+
+a:hover{
+    color: #d54062;
+     text-shadow: 0 2px;
+}
+
+footer{
+    margin: 0%;
+}
+.foot{
+   padding: 1% 0 1%;
+    margin: none;
+    text-align: center;
+    background-color: black;
+    font-family: 'Bebas Neue', cursive;
+    color: white;
+    margin: none;
+    font-size: 150%;
+    
+}
+
+@media screen and (max-width:80px){
+	.container{
+		margin:0 50px;
+	}
+}
+
+@media screen and  (max-width:600px)
+{
+	.container{
+		margin:0 20px;
+	}
+.description{
+	text-align:none;
+	font-size:15px;
+}
+.skills
+{
+    text-align: center;
+}  
+.skills{
+    margin-top: 10px;
+}
+.scode{
+    margin-top: 10px;
+}  
+.code{
+    float:none;
+    width: 100px;
+    height: 100px;
+}
+.hbl{
+	font-size:15px;
+}
+.dev{
+    float:none;
+    width: 100px;
+    height: 100px;
+}
+}
+
+
